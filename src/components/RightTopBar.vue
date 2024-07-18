@@ -28,7 +28,7 @@ const settingStore = useSettingStore()
       </IconWrapper>
     </Tooltip>
 
-    <a href="https://github.com/zyronon/typing-word" target="_blank">
+    <a href="https://github.com/MJM-13309559213/typing-word" target="_blank">
       <BaseIcon
           title="Github地址"
           icon="mdi:github"/>
